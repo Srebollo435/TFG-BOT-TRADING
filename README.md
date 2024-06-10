@@ -25,11 +25,10 @@ Para que sea más comoda la instalación se ha creado una máquina virtual Windo
 
 # Video entorno propio:
 [![Watch the video](https://github.com/Srebollo435/TFG-BOT-TRADING/blob/main/image/entorno_personal.png?raw=true)](https://youtu.be/EP1Ho0Gj64M)
-[![Watch the video](https://img.youtube.com/vi/EP1Ho0Gj64M/0.jpg)](https://www.youtube.com/watch?v=EP1Ho0Gj64M)
-
 
 
 # Video VM:
+[![Watch the video]()](https://www.youtube.com/watch?v=rSBGB5xx2ss)
 
 
 
