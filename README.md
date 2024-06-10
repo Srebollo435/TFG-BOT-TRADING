@@ -18,10 +18,10 @@ Para que sea más comoda la instalación se ha creado una máquina virtual Windo
 
 # Máquina virtual:
 
--Contraseña: TFG12345
--mail: tfgUBUbot@outlook.es
--PIN : 3412
--mail alternativo: sro1004@alu.ubu.es
+- Contraseña: TFG12345
+- Mail: tfgUBUbot@outlook.es
+- PIN : 3412
+- Mail alternativo: sro1004@alu.ubu.es
 
 # Video entorno propio:
 [![Watch the video](https://github.com/Srebollo435/TFG-BOT-TRADING/blob/main/image/entorno_personal.png?raw=true)](https://youtu.be/EP1Ho0Gj64M)
