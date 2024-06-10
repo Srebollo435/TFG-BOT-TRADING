@@ -28,7 +28,7 @@ Para que sea más comoda la instalación se ha creado una máquina virtual Windo
 
 
 # Video VM:
-[![Watch the video]()](https://www.youtube.com/watch?v=rSBGB5xx2ss)
+[![Watch the video](https://github.com/Srebollo435/TFG-BOT-TRADING/blob/main/image/vm.png?raw=true)](https://www.youtube.com/watch?v=rSBGB5xx2ss)
 
 
 
