@@ -11,4 +11,14 @@ El último paso será explicar las librerías, herramientas y softwares utilizad
 
 Instalación en local:
 
-Primero de todo habrá que instalar python 3.9.3
+Primero de todo habrá que instalar 
+- python-3.9.13
+
+Para que sea más comoda la instalación se ha creado una máquina virtual Windows 10 Home que es el entrono donde se ha creado el proyecto.
+
+Máquina virtual:
+
+-Contraseña: TFG12345
+-mail: tfgUBUbot@outlook.es
+-PIN : 3412
+-mail alternativo: sro1004@alu.ubu.es
