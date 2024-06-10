@@ -8,3 +8,7 @@ En primer lugar, se llevará a cabo una revisión bibliográfica de estudios rel
 Primero desarrollaremos un bot de trading para probar la estrategia programada a través de datos históricos obtenidos en formato csv. Una vez programado realizaremos pruebas con diferentes activos financieros para comprobar la rentabilidad de nuestro bot de trading, realizando estadísticas y observando en que parámetros podremos mejorar para poder ser rentables o mejorar la rentabilidad. Tras este paso pasaremos a realizar a programar el bot para que realice las operaciones cuando el mercado financiero este abierto. 
 
 El último paso será explicar las librerías, herramientas y softwares utilizados para realizar los diferentes pasos que requiere la programación de un bot de trading. También realizaremos una explicación del código que hemos programado.
+
+Instalación en local:
+
+Primero de todo habrá que instalar python 3.9.3
