@@ -24,6 +24,7 @@ Para que sea más comoda la instalación se ha creado una máquina virtual Windo
 -mail alternativo: sro1004@alu.ubu.es
 
 # Video entorno propio:
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/VIDEO_ID](https://youtu.be/EP1Ho0Gj64M)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 # Video VM:
