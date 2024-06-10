@@ -1,0 +1,92 @@
+@startuml
+class main {
+
+
+}
+
+class Interfaz {
+  + __init__()
+  + submit()
+
+}
+
+class Bot {
+  - threads: List<Thread>
+  - data: Map<String, Object>
+  - operation: List<Object>
+  - pill2kill: Event
+  - mutex: Lock
+  - barrera: Barrier
+  - total: int
+
+  + __init__()
+  + thread_candle()
+  + thread_RSI()
+  + thread_orders()
+  + thread_sma()
+  + thread_fibonacci()
+  + kill_threads()
+  + wait()
+}
+
+class VELAS {
+  + thread_candles()
+}
+
+class Candle {
+  - time_last_candle: int
+  - open: float
+  - close: float
+  - high: float
+  - low: float
+  - volume: float
+
+  + __init__()
+  + set_open(timestamp: int, open: float, high: float, low: float, close: float, tick_volume: float): void
+  + get_info(): List<float>
+}
+
+class RSI {
+  + thread_rsi()
+  + parameters_RSI()
+}
+
+class ORDER {
+  + thread_orders()
+  + condiciones_operacion()
+  + beneficio_perdida()
+}
+
+class SMA {
+  + thread_SMA()
+  + parameters_SMA()
+}
+
+class FIBO {
+  + thread_fibonacci()
+  + maximos_minimos()
+}
+
+class BotCSV {
+  - csv_file: BotCSV
+
+  + __init__()
+  + create_csv()
+  + insert_operation()
+}
+
+Bot --> VELAS
+Bot --> RSI
+Bot --> ORDER
+Bot --> SMA
+Bot --> FIBO
+main --> Interfaz
+Interfaz --> Bot
+RSI --> Candle
+SMA --> Candle
+ORDER --> Candle
+FIBO --> Candle
+VELAS --> Candle
+ORDER --> BotCSV
+
+@enduml
