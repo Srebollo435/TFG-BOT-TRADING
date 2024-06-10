@@ -25,7 +25,7 @@ Para que sea más comoda la instalación se ha creado una máquina virtual Windo
 
 # Video entorno propio:
 [![Watch the video](https://img.youtu.be/vi/EP1Ho0Gj64M/0.jpg)](https://youtu.be/EP1Ho0Gj64M)
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/EP1Ho0Gj64M/0.jpg)](https://www.youtube.com/watch?v=EP1Ho0Gj64M)
 
 
 
