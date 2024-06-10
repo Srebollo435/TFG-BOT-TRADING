@@ -18,6 +18,8 @@ Para que sea más comoda la instalación se ha creado una máquina virtual Windo
 
 # Máquina virtual:
 
+Se llama 'TFG-Clonada'.
+
 - Contraseña: TFG12345
 - Mail: tfgUBUbot@outlook.es
 - PIN : 3412
