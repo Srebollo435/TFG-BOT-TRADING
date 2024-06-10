@@ -30,7 +30,7 @@ import src.SMA
 import src.VELAS, src.RSI, threading, src.ORDER
 
 
-log_folder = r'C:\Users\Usuario\PycharmProjects\TFG-BOT_TRADING - csv - copia\Log.errors'
+log_folder = 'Log.errors'
 if not os.path.exists(log_folder):
     os.makedirs(log_folder)
 

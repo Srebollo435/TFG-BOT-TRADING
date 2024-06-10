@@ -26,7 +26,7 @@ SIGNAL_RSI_SELL = 60
 CANDLES_BETWEEN_OPERATIONS = 6
 
 # Crear la carpeta si no existe
-log_folder = r'C:\Users\Usuario\PycharmProjects\TFG-BOT_TRADING - csv - copia\Log.errors'
+log_folder = 'Log.errors'
 if not os.path.exists(log_folder):
     os.makedirs(log_folder)
 
@@ -56,7 +56,7 @@ def thread_orders(pill2kill, data, barrera, operation, total, lotaje, HistoricoD
         nombre_archivo = os.path.basename(HistoricoDivisas)
 
         # Construir el nuevo path para el archivo CSV en la carpeta Operaciones
-        ruta_csv = os.path.join('C:\\Users\\Usuario\\PycharmProjects\\TFG-BOT_TRADING - csv - copia\\Operaciones', nombre_archivo)
+        ruta_csv = os.path.join('Operaciones', nombre_archivo)
         contador = 0
         FLAG = False
         db_csv = src.BotCSV.BotDBCSV(csv_file=ruta_csv)

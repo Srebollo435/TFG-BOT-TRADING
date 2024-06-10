@@ -20,7 +20,7 @@ WINDOW_CANDLES = 200
 
 # Crear la carpeta si no existe
 
-log_folder = r'C:\Users\Usuario\PycharmProjects\TFG-BOT_TRADING - csv - copia\Log.errors'
+log_folder = 'Log.errors'
 if not os.path.exists(log_folder):
     os.makedirs(log_folder)
 
