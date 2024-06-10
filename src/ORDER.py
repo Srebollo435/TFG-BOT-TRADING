@@ -56,7 +56,7 @@ def thread_orders(pill2kill, data, barrera, operation, total, lotaje, HistoricoD
         nombre_archivo = os.path.basename(HistoricoDivisas)
 
         # Construir el nuevo path para el archivo CSV en la carpeta Operaciones
-        ruta_csv = os.path.join('Operaciones', nombre_archivo)
+        ruta_csv = os.path.join('..', 'Operaciones', nombre_archivo)
         contador = 0
         FLAG = False
         db_csv = src.BotCSV.BotDBCSV(csv_file=ruta_csv)
