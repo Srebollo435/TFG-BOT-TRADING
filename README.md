@@ -24,7 +24,8 @@ Para que sea más comoda la instalación se ha creado una máquina virtual Windo
 -mail alternativo: sro1004@alu.ubu.es
 
 # Video entorno propio:
-[![Watch the video](https://img.youtu.be/vi/EP1Ho0Gj64M/0.jpg)](https://youtu.be/EP1Ho0Gj64M)
+[![Watch the video](![image](https://github.com/Srebollo435/TFG-BOT-TRADING/assets/126803060/83add2e0-b8e0-45da-93fd-ea786251b84a)
+)](https://youtu.be/EP1Ho0Gj64M)
 [![Watch the video](https://img.youtube.com/vi/EP1Ho0Gj64M/0.jpg)](https://www.youtube.com/watch?v=EP1Ho0Gj64M)
 
 
