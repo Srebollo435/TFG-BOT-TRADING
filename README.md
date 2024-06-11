@@ -18,12 +18,7 @@ Para que sea más comoda la instalación se ha creado una máquina virtual Windo
 
 # Máquina virtual:
 
-Se llama 'TFG-Clonada'.
-
-- Contraseña: TFG12345
-- Mail: tfgUBUbot@outlook.es
-- PIN : 3412
-- Mail alternativo: sro1004@alu.ubu.es
+Se llama 'TFG-Clonada' y es una máquina virtual Windows 10 Home.
 
 # Video entorno propio:
 [![Watch the video](https://github.com/Srebollo435/TFG-BOT-TRADING/blob/main/image/entorno_personal.png?raw=true)](https://youtu.be/EP1Ho0Gj64M)
